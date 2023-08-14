@@ -23,8 +23,11 @@
   </div>
   <hr>
   
-  No momento ando estudando a plataforma .NET junto ao C# no qual é meu foco, quero desenvolver/trabalhar com sistemas. Porém estou aberto a aprender novas tecnologias, 
-  Em paralelo também faço cursos de desenvolvimento WEB (HTML, CSS, JS)<br>
+   🚀 Sou um desenvolvedor .NET entusiasmado com a criação de soluções inovadoras! Minha jornada profissional tem sido focada em aplicativos Windows Forms, ASP.NET MVC e WPF, e também possuo habilidades e facil  
+   entendimento sobre regras de negocios  em sistemas ERP.
+   Trabalho e estudo incansavelmente para elevar minhas habilidades como desenvolvedor , mergulhando profundamente e constantemente em projetos desafiadores. Meu toolkit inclui C# para a construção do backend robusto 
+   e JavaScript, jQuery e Materialize para aprimorar a experiência do usuário.
+   Sempre em busca de aprender e crescer, estou comprometido em transformar ideias em realidade e enfrentar novos desafios de desenvolvimento!<br>
   <br>
   Amante da tecnologia e apreciador de História,  RPG's , TCG's, Xadrez  e heavy metal!
   Sempre estarei estudando  maneiras e tecnologias para agregar na sociedade/comunidade !🤟🤘

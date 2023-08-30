@@ -23,15 +23,14 @@
   </div>
   <hr>
   
-   🚀 Sou um desenvolvedor .NET entusiasmado com a criação de soluções inovadoras! Minha jornada profissional tem sido focada em aplicativos Windows Forms, ASP.NET MVC e WPF, e também possuo habilidades e facil  
+   🚀 Sou um desenvolvedor voltado ao ecossistema Microsoft! Minha jornada profissional tem sido focada em criação de Api's , aplicativos Windows Forms, ASP.NET MVC, WebForms e WPF, e também possuo habilidades e facil  
    entendimento sobre regras de negocios  em sistemas de aplicação(ERP) e Softwares para linha de produtos.
    Trabalho e estudo incansavelmente para elevar minhas habilidades como desenvolvedor , mergulhando profundamente e constantemente em projetos desafiadores. Meu toolkit inclui C# para a construção do backend 
   robusto 
    e JavaScript, jQuery e Materialize para aprimorar a experiência do usuário.
    Sempre em busca de aprender e crescer, estou comprometido em transformar ideias em realidade e enfrentar novos desafios de desenvolvimento!
-  Minha Stack é marjoritarimente Microsoft.
   Tambem possuo conhecimento em AZURE e em todo o processo desde de colher requisitos ao Deploy<br>
-  Familiarizado com ORM e metodologia ágeis.
+  Familiarizado com metodologia ágeis.
   Apoio Braimstorming e code-review, sempre participando afundo dos refinamentos tecnicos para agregar da melhor forma o time.
   <br>
   Amante da tecnologia e apreciador de História,  RPG's , TCG's, Xadrez  e heavy metal!

@@ -1,4 +1,4 @@
-### Olá! Eu sou Bruno Seraguza, Desenvolvedor .NET e Estudante de Analise e desenvolvimento de sistemas.
+### Olá! Eu sou Bruno Seraguza, Desenvolvedor .NET e Estudante de Analise e desenvolvimento de sistemas, e campeão de magic nas horas vagas.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-seraguza/)
 

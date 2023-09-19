@@ -29,7 +29,7 @@
   robusto 
    e JavaScript, jQuery e Materialize para aprimorar a experiência do usuário.
    Sempre em busca de aprender e crescer, estou comprometido em transformar ideias em realidade e enfrentar novos desafios de desenvolvimento!
-  Tambem possuo conhecimento em AZURE e em todo o processo desde de colher requisitos ao Deploy<br>
+  Tambem possuo conhecimento em AZURE e em todo o processo de desenvolvimento de software como levantamento de requisitos, análise, projeto, implementação, testes e implantação<br>
   Familiarizado com metodologia ágeis.
   Apoio Braimstorming e code-review, sempre participando afundo dos refinamentos tecnicos para agregar da melhor forma o time.
   <br>

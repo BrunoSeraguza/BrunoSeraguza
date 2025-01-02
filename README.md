@@ -25,7 +25,7 @@
   
    🚀  Sou um desenvolvedor voltado ao ecossistema Microsoft! Minha jornada profissional tem sido focada em criação de API's, aplicativos Windows Forms, ASP.NET MVC, WebForms e WPF. Possuo habilidades e fácil entendimento sobre regras de negócios em sistemas de aplicação (ERP) e softwares para linha de produtos. Trabalho e estudo para elevar minhas habilidades como desenvolvedor . Tenho uma base forte em C# e SQLServer para a construção de backend robusto, JavaScript, jQuery e Materialize (para aprimorar a experiência do usuário). Também possuo conhecimentos em AZURE e no processo de desenvolvimento de software como: levantamento de requisitos, análise, projeto, implementação, testes e implantação.
 Sou familiarizado com metodologias ágeis e gosto de participar de code-reviews para contribuir com refinamentos técnicos e agregar ao time.
-Amante da tecnologia e apreciador de História, RPG's , TCG's, Xadrez e heavy metal! Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas e atuo como Programador de sistemas. 🤟🤘
+Amante da tecnologia e apreciador de História, RPG's , TCG's, Xadrez e heavy metal! Atualmente sou formado em Análise e Desenvolvimento de Sistemas e atuo como Programador de sistemas. 🤟🤘
   
   
 

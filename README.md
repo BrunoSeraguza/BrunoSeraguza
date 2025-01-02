@@ -1,4 +1,4 @@
-### Olá!  Bruno Seraguza, Desenvolvedor .NET , Estudante de Analise e desenvolvimento de sistemas  e campeão de magic nas horas vagas.
+### Olá!  Bruno Seraguza, Desenvolvedor .NET , Formado em Análise e Desenvolvimento de Sistemas e campeão de magic nas horas vagas.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-seraguza/)
 

@@ -33,7 +33,7 @@ Tenho experiência profissional com .NET desde as versões legado (4.x) até o .
 Sou familiarizado com metodologias ágeis e gosto de participar de code-reviews para contribuir com refinamentos técnicos e agregar ao time.
 
 
-Apreciador de História, RPG's, TCG's, Xadrez e heavy metal! Atualmente sou formado em Análise e Desenvolvimento de Sistemas e atuo como Analista de Desenvolvimento de Software. 🤟🤘
+Atualmente sou formado em Análise e Desenvolvimento de Sistemas e atuo como Analista de Desenvolvimento de Software. 🤟🤘
   
   
 

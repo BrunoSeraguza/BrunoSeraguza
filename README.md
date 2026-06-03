@@ -1,4 +1,4 @@
-### Olá!  Bruno Seraguza, Desenvolvedor .NET , Formado em Análise e Desenvolvimento de Sistemas e campeão de magic nas horas vagas.
+### Olá!  Bruno Seraguza, Desenvolvedor .NET , Formado em Análise e Desenvolvimento de Sistemas e campeão de Magic nas horas vagas.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-seraguza/)
 
@@ -31,9 +31,6 @@ Tenho uma base forte em C# e SQLServer para a construção de backend robusto, J
 
 Tenho experiência profissional com .NET desde as versões legado (4.x) até o .NET 8.
 Sou familiarizado com metodologias ágeis e gosto de participar de code-reviews para contribuir com refinamentos técnicos e agregar ao time.
-
-
-Atualmente sou formado em Análise e Desenvolvimento de Sistemas e atuo como Analista de Desenvolvimento de Software. 🤟🤘
   
   
 

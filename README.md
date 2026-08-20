@@ -26,10 +26,10 @@
 Desenvolvedor com foco ao ecossistema Microsoft! Minha jornada profissional tem sido focada em criação de API's, aplicativos Windows Forms, ASP.NET MVC, WebForms e WPF. Possuo habilidades e fácil entendimento sobre regras de negócios em sistemas de aplicação (ERP) e softwares para linha de produtos.
 
 
-Tenho uma base forte em C# e SQLServer para a construção de backend robusto, JavaScript, jQuery e Materialize (para aprimorar a experiência do usuário). Também possuo conhecimentos no processo de desenvolvimento de software como: levantamento de requisitos, análise, projeto, implementação e testes.
+Tenho uma base forte em C# e SQLServer para a construção de backend robusto, JavaScript, jQuery e Materialize. Também possuo conhecimentos no processo de desenvolvimento de software como: levantamento de requisitos, análise, projeto, implementação e testes.
 
 
-Tenho experiência profissional com .NET desde as versões legado (4.x) até o .NET 8.
+Tenho experiência profissional com .NET desde as versões legado (4.x) até o .NET 9.
 Sou familiarizado com metodologias ágeis e gosto de participar de code-reviews para contribuir com refinamentos técnicos e agregar ao time.
   
   

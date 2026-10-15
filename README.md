@@ -30,7 +30,7 @@ Tenho uma base forte em C# e SQLServer para a construção de backend robusto, J
 
 
 Tenho experiência profissional com .NET desde as versões legado (4.x) até o .NET 9.
-Sou familiarizado com metodologias ágeis e gosto de participar de code-reviews para contribuir com refinamentos técnicos e agregar ao time.
+Sou familiarizado com metodologias ágeis, Participo de reviews para agregar ao time e atuo com refinamentos técnicos para novas funcionalidades e integrações
   
   
 
